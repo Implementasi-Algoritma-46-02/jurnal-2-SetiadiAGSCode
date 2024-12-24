@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Setiadi Agusnawan
 
-NIM : 
+NIM : 607062400053
 
 ## Instruksi
 
